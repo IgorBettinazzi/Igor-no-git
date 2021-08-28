@@ -1,0 +1,39 @@
+html{
+    background: url(../img/fundo_med.jpg) ;
+    background-size: cover ;
+
+}
+
+.titulo{
+    background-color: #fff;
+    padding: 10px;
+}
+
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+
+
+.bloco{
+
+    background-color: #fff;
+    border-color: #ccc#999#ccc#999;
+    border: 1px solid;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.bloco img{
+
+    border: 1px solid #999;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+
+}
+
+.clear{
+    clear: both ;
+
+}
